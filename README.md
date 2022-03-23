@@ -107,7 +107,7 @@ Worked in Backend.
 - Yogendra Singh Diwan:
 created signup pop-up.
 - Ravi Kumar Patel:
-worked in Backend
+worked in Backend and navition and its functionality.
 
 ## Thank You!
 This is our very first React project Thank you so much for visiting, we would really like to know your reviews and suggestions.
